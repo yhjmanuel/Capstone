@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/capstone project.iml" filepath="$PROJECT_DIR$/.idea/capstone project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring 2023/IE/hw2/.idea/hw2.iml" filepath="$PROJECT_DIR$/../spring 2023/IE/hw2/.idea/hw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring 2023/IR/pa2_&lt;Yu_Hongjun&gt;/.idea/pa2_&lt;Yu_Hongjun&gt;.iml" filepath="$PROJECT_DIR$/../spring 2023/IR/pa2_&lt;Yu_Hongjun&gt;/.idea/pa2_&lt;Yu_Hongjun&gt;.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring 2023/IR/pa3/.idea/pa3.iml" filepath="$PROJECT_DIR$/../spring 2023/IR/pa3/.idea/pa3.iml" />
+    </modules>
+  </component>
+</project>
