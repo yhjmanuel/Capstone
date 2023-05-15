@@ -1,8 +1,8 @@
-###Query-Product Matching Subtask
+### Query-Product Matching Subtask
 
 This project serves as a solution for task 1 (search ranking) and task 2 (relevance level classification) for the ESCI challenge https://amazonkddcup.github.io/ 
 
-###How to run the codes
+### How to run the codes
 
 Download the dataset from https://github.com/amazon-science/esci-data/tree/main/shopping_queries_dataset
 
@@ -14,7 +14,7 @@ Run
 pip install -r requirements.txt 
 ```
 
-####Task1
+#### Task1
 For experimenting with task 1 (the search ranking task), run
 
 ```
@@ -41,7 +41,7 @@ Feel free to change the hyperparameters in "config/task1.config". Logs will be p
 
 The model will be saved in the "models" folder. 
 
-####Task2
+#### Task2
 For experimenting with task 2 (the search relevance level classification task), run
 
 ```
