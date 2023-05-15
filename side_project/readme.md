@@ -1,4 +1,4 @@
-###Hierarchical Text Classification Subtask
+### Subtask used for optimizing results in the main task
 
 This is an auxiliary project. Tricks that it involves can be used to optimize the results in the main project experiments.
 
@@ -6,7 +6,7 @@ This project trains a deep reinforcement learning-based hierarchical text classi
 
 This project is based on the paper Hierarchical Text Classification with Reinforced Label Assignment (Mao et al., 2020)
 
-###How to run the codes:
+### How to run the codes:
 
 Download yelp's 2018 dataset from https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
 
